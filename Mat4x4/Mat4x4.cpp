@@ -1,7 +1,6 @@
 #include "Mat4x4.h"
 #include "Vector3D/Vector3D.h"
-#define _USE_MATH_DEFINES
-#include <math.h>
+#include <cmath>
 #include <algorithm>
 #include "Novice.h"
 
